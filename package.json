@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ChrisChV/Telegram-JS/issues"
   },
-  "homepage": "https://github.com/ChrisChV/Telegram-JS#readme"
+  "homepage": "https://github.com/ChrisChV/Telegram-JS#readme",
+  "dependencies": {
+    "@airgram/web": "^2.1.0",
+    "browser-resolve": "^1.11.3",
+    "tdweb": "^1.5.0"
+  },
+  "devDependencies": {
+    "esmify": "^2.1.1"
+  }
 }
