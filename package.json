@@ -1,0 +1,19 @@
+{
+  "name": "telegram-js",
+  "version": "1.0.0",
+  "description": "JavaScript Telegram Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisChV/Telegram-JS.git"
+  },
+  "author": "Christofer Fabián Chávez Carazas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ChrisChV/Telegram-JS/issues"
+  },
+  "homepage": "https://github.com/ChrisChV/Telegram-JS#readme"
+}
